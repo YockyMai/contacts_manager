@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "TestUser",
+      "password": "qwerty123"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "phone": "89276360125",
+      "name": "Артем",
+      "description": "Мой друг!"
+    },
+    {
+      "userId": 1,
+      "phone": "891231",
+      "name": "Давид",
+      "description": "еще один друг)!",
+      "id": 2
+    }
+  ]
+}
